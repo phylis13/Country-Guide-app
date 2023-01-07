@@ -1,0 +1,19 @@
+{
+  "name": "country-guide-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phylis13/Country-Guide-app.git"
+  },
+  "author": "phylis njer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phylis13/Country-Guide-app/issues"
+  },
+  "homepage": "https://github.com/phylis13/Country-Guide-app#readme"
+}
