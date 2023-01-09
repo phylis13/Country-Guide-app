@@ -54,7 +54,7 @@ code .
 ## Author
 Project contributed to by:
 phylis njeri
-['https://github.com/phylis13/Country-Guide-app']
+['https://github.com/phylis13.io/Country-Guide-app']
 
 
 ## License
